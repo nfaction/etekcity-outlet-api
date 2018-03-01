@@ -14,13 +14,17 @@ API Endpoint for Etekcity Outlets
 
 Total: $36.04 + cost of wiring/breadboards, etc.
 
-## Arduino
+## Arduino/ESP8266 WeMos
 
 ### Required Libraries
 
 * aREST: <https://github.com/marcoschwartz/aREST>
 * ESP8266: <https://github.com/esp8266/Arduino>
 * rc-switch: <https://github.com/sui77/rc-switch>
+
+### Circuit Diagram
+
+![Transmitter/Receiver Circuit](433Mhz_WeMos_Circuit_diagram.png)
 
 ## References
 
