@@ -2,6 +2,8 @@
 
 API Endpoint for Etekcity Outlets
 
+![etekcity-outlets](etekcity-outlets.png)
+
 ## Parts
 
 * ($29.98) Etekcity Wireless Remote Control Electrical Outlet 5Rx-2Tx: <http://a.co/3saFR3A>
@@ -11,6 +13,14 @@ API Endpoint for Etekcity Outlets
 	* v1 ($2.69) [aliexpress wemos](https://www.aliexpress.com/item/ESP8266-ESP12-ESP-12-WeMos-D1-Mini-WIFI-Dev-Kit-Development-Board-NodeMCU-Lua/32653918483.html?spm=2114.search0104.3.2.6a801ed5nPwD8c&ws_ab_test=searchweb0_0,searchweb201602_1_10152_10151_10065_10344_10130_10068_10324_10342_10547_10325_10343_10546_10340_10548_10341_10545_10084_10083_10618_10630_10307_10313_10059_10534_100031_10103_10627_10626_10624_10623_10622_10621_10620_10142,searchweb201603_25,ppcSwitch_5&algo_expid=4779d5af-12ca-44c9-bd20-c7c6f4e0208d-0&algo_pvid=4779d5af-12ca-44c9-bd20-c7c6f4e0208d&transAbTest=ae803_5&priceBeautifyAB=0)
 
 Total: $36.04 + cost of wiring/breadboards, etc.
+
+## Arduino
+
+### Required Libraries
+
+* aREST: <https://github.com/marcoschwartz/aREST>
+* ESP8266: <https://github.com/esp8266/Arduino>
+* rc-switch: <https://github.com/sui77/rc-switch>
 
 ## References
 
