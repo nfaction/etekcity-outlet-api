@@ -2,7 +2,7 @@
 
 API Endpoint for Etekcity Outlets
 
-![etekcity-outlets](etekcity-outlets.png)
+<img src="etekcity-outlets.png" width="250">
 
 ## Parts
 
